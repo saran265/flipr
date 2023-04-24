@@ -1,0 +1,13 @@
+.gg{
+   width: 300px;
+   height: 32px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background-size: 100% 100%;
+    background-image:url(google_logo.png);
+    margin-left: 27px;
+}
+p4{
+       margin-left: 43%;
+}
